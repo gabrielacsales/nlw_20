@@ -1,8 +1,3 @@
-Perfeito, com base no seu projeto do **NLW Agents adaptado para Brawl Stars**, aqui está um `README.md` ajustado com as tecnologias **realmente utilizadas**:
-
----
-
-````markdown
 # 🕹️ NLW Agents – Assistente de Meta para Brawl Stars
 
 Este projeto foi desenvolvido durante a **Next Level Week (NLW)** da [Rocketseat](https://www.rocketseat.com.br/), edição 20 – tema **Agents**.
